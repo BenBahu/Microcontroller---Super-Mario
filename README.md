@@ -14,14 +14,13 @@ This project implements a complete Mario-style platformer game featuring:
 - **Rotary encoder** for menu navigation and volume control
 
 ### 🎬 Demo Video
-Watch the game in action! This video shows the complete gameplay experience including menu navigation, level progression, and game mechanics.
+This video shows the complete gameplay experience including menu navigation, level progression, and game mechanics.
 
 <video width="640" height="480" controls>
   <source src="Projet.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
-**Alternative**: [Download Demo Video](Projet.mp4)
+[Download Demo Video](Projet.mp4)
 
 ## 🎯 Game Features
 
