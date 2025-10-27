@@ -18,7 +18,7 @@ This project implements a complete Mario-style platformer game featuring:
 ### Core Gameplay
 - **Character Movement**: Green pixel representing Mario
 - **Jumping Mechanics**: Physics-based jumping with gravity simulation
-- **Collision Detection**: Orange obstacles that end the game on contact
+- **Collision Detection**: Orange obstacles that end the game on lateral contact
 - **Level Progression**: Two distinct levels with increasing difficulty
 - **Time Challenge**: 60-second countdown timer
 
@@ -210,9 +210,9 @@ This project is created for educational purposes. Please respect the original wo
 
 ## 👨‍💻 Authors
 
-- **Main Developer**: Patri (patri)
-- **Sound Implementation**: Benand (benand)
-- **Project Supervisor**: A.S.
+- **Main Developer**: Benjamin Bahurel
+- **Sound Implementation**: Jacques Benand
+- **Project Supervisor**: Pr. Alexandre Schmid
 
 ## 📚 References
 
