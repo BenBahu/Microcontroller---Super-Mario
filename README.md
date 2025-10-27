@@ -13,6 +13,10 @@ This project implements a complete Mario-style platformer game featuring:
 - **Sound effects** for enhanced gaming experience
 - **Rotary encoder** for menu navigation and volume control
 
+This video shows the complete gameplay experience including menu navigation, level progression, and game mechanics.
+
+https://github.com/BenBahu/Microcontroller---Super-Mario/assets/raw/main/Projet.mp4
+
 ## 🎯 Game Features
 
 ### Core Gameplay
