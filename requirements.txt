@@ -1,0 +1,60 @@
+# Development Environment Requirements
+# For ATmega128L Microcontroller Project - Homemade Mario Game
+
+# Core Development Tools
+atmel-studio>=7.0.0
+avr-gcc>=5.4.0
+avr-libc>=2.0.0
+avrdude>=6.3.0
+
+# AVR Development Tools
+avr-gdb>=7.10.0
+avr-objcopy>=2.26.0
+avr-objdump>=2.26.0
+avr-size>=2.26.0
+avr-nm>=2.26.0
+avr-strings>=2.26.0
+avr-strip>=2.26.0
+
+# Hardware Programming Tools
+avrdude>=6.3.0
+usbasp-driver>=1.0.0
+
+# Optional Development Tools
+make>=4.1.0
+git>=2.20.0
+
+# Hardware Simulation (Optional)
+simavr>=1.5.0
+
+# Documentation Tools (Optional)
+doxygen>=1.8.0
+graphviz>=2.40.0
+
+# Hardware Requirements (Not installable via package manager)
+# - ATmega128L Microcontroller
+# - STK-300 Development Board
+# - 8x8 WS2812B LED Matrix
+# - HD44780U LCD Display (16x2)
+# - Rotary Encoder with Push Button
+# - Piezo Speaker
+# - Push Buttons (3x)
+# - Jumper Wires
+# - Breadboard/Prototyping Board
+# - Power Supply (5V, 2A)
+
+# Installation Instructions:
+# 1. Install Atmel Studio 7.0 from Microchip website
+# 2. Install AVR-GCC toolchain (included with Atmel Studio)
+# 3. Install AVRDUDE for programming
+# 4. Install USBASP drivers if using USBASP programmer
+# 5. Connect hardware according to pin configuration in README.md
+# 6. Build and flash the project using Atmel Studio
+
+# Platform-specific installation:
+# Windows: Use Atmel Studio installer
+# Linux: sudo apt-get install avr-gcc avr-libc avrdude
+# macOS: brew install avr-gcc avr-libc avrdude
+
+# Note: This is a microcontroller project requiring physical hardware.
+# Software dependencies are minimal as the project uses pure AVR assembly.
